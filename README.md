@@ -1,5 +1,4 @@
-# LdgDisplay
-EL wire driver controller
+# LdgDisplay: EL Wire Driver Controller
 
 EL Lightwire Sequence Generator using Sparkfun EL Sequencer board (COM-12781)
 
