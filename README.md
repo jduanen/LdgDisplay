@@ -29,6 +29,10 @@ Christmas present for my sister.
   - Select pre-defined pattern of wires with selector switch
     * Abort pattern and go on to the new one if the selector value changes
   - Set speed with pot and base value given in the pattern defininions
+  - Pattern: a set of enabled channels/wires
+  - Sequence: list of Patterns with defined delays between them
 
+## TODO
 
-
+* Create a little language for defining sequences of patterns
+* Write a graphical simulator to visualize patterns
