@@ -8,6 +8,12 @@ Christmas present for my sister.
 
 ![EL Wire Driver #2](ldgDisplay2.jpg)
 
+![Pattern #1](ldg1.gif)
+
+![Pattern #2](ldg2.gif)
+
+![Pattern #3](ldg3.gif)
+
 ## Hardware
 
 * Notes
