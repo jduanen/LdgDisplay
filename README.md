@@ -42,3 +42,5 @@ Christmas present for my sister.
 
 * Create a little language for defining sequences of patterns
 * Write a graphical simulator to visualize patterns
+* Generate a schematic
+* Document things
