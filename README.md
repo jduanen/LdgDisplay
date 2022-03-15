@@ -4,6 +4,8 @@ EL Lightwire Sequence Generator using Sparkfun EL Sequencer board (COM-12781)
 
 Christmas present for my sister.
 
+Seven selectable patterns and random mode, and a pot for speed control.
+
 ![Tinfoil Helmet](ldg.gif)
 
 ![EL Wire Driver #1](ldgDisplay1.jpg)
